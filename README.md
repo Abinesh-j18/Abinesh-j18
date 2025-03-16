@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Abinesh<br><br> 💻 A passionate developer with a strong focus on building impactful and dynamic solutions.🚀<br><br> 📚 I’m currently studying
+Hi 👋, I'm Abinesh<br><br> 💻 A passionate developer with a strong focus on building impactful and dynamic solutions.🚀<br><br>  📚 🎉Completed Cisco Certified Internet work
+Expert(CCIE) at GreatLake
 
 
 ## 🌐 Socials:
