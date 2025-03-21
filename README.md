@@ -27,11 +27,11 @@ Expert(CCIE) at GreatLake
 
 ### 🛠️ Tools & Software
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![DevC++](https://img.shields.io/badge/DevC++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abinesh-j18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
