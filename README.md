@@ -2,14 +2,7 @@
 
 ![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
 
-<div align="center">
-  <h1>👩‍💻 Abinesh Sivakumar</h1>
-  <p>
-    <br>🌟 Software Engineering Undergraduate | Cardiff Metropolitan University 🎓  
-  </p>
-</div>
 
----
 
 # 💫 About Me:
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -19,8 +12,9 @@ Expert(CCIE) at GreatLake.
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abinesh-s18) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ 
 
 ## 🛠️ Tech Stack
 
