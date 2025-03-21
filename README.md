@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👩‍💻 Abinesh Sivakumar</h1>
   <p>
-    <br>Software Engineering Undergraduate | Cardiff Metropolitan University 🎓  
+    <br>🌟 Software Engineering Undergraduate | Cardiff Metropolitan University 🎓  
   </p>
 </div>
 
