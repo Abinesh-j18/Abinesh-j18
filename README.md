@@ -17,6 +17,7 @@ Expert(CCIE) at GreatLake.
  <a href="https://linkedin.com/in/abinesh-s18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan-kumar-rai-23112000" height="30" width="40" /></a>
  <a href="https://fb.com/abinesh.drago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kishan.kumarrai.79" height="30" width="40" /></a>
  <a href="https://instagram.com/Abinesh_j18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kishan_rajput23" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/@techboyprojects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingbuddies" height="30" width="40" /></a>
 
 ## 🛠️ Tech Stack
 
