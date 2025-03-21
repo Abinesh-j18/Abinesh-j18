@@ -10,8 +10,8 @@
 # 💫 About Me:
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Hi 👋, I'm Abinesh<br><br> 💻 A passionate developer with a strong focus on building impactful and dynamic solutions.🚀<br><br>💡  I like to explore new technologies and develop software solutions and quick hacks. <br><br> 🎓 Completed a Higher Diploma in Computing and Software Engineering (Cardiff Metropolitan University)💻 <br><br>  📚 🎉Completed Cisco Certified Internet work
-Expert(CCIE) at GreatLake
+Hi 👋, I'm Abinesh<br><br> 🚀 A passionate developer with a strong focus on building impactful and dynamic solutions.<br><br>💡  I like to explore new technologies and develop software solutions and quick hacks. <br><br> 🎓 Completed a Higher Diploma in Computing and Software Engineering (Cardiff Metropolitan University). <br><br>  🎉Completed Cisco Certified Internet work
+Expert(CCIE) at GreatLake.
 
 
 
