@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👩‍💻 Abinesh Sivakumar</h1>
   <p>
-    <b>Aspiring Frontend Developer</b>  
     <br>Software Engineering Undergraduate | Cardiff Metropolitan University 🎓  
   </p>
 </div>
