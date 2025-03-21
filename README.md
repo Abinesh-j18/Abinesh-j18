@@ -2,6 +2,10 @@
 Hi 👋, I'm Abinesh<br><br> 💻 A passionate developer with a strong focus on building impactful and dynamic solutions.🚀<br><br> 🎓 Completed a Higher Diploma in Computing and Software Engineering (Cardiff Metropolitan University)💻 <br><br>  📚 🎉Completed Cisco Certified Internet work
 Expert(CCIE) at GreatLake
 
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abinesh-s18) 
