@@ -47,9 +47,24 @@ Expert(CCIE) at GreatLake.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abinesh-j18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abinesh-j18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh-j18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishanrajput23&theme=dark&hide_border=true"/>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abinesh-j18">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kishanrajput23&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/Abinesh-j18">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanrajput23&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+
+<div align="center">
 
 
 
