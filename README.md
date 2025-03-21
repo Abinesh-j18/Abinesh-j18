@@ -1,3 +1,13 @@
+<div align="center">
+  <h1>👩‍💻 Abinesh Sivakumar</h1>
+  <p>
+    <b>Aspiring Frontend Developer</b>  
+    <br>Software Engineering Undergraduate | Cardiff Metropolitan University 🎓  
+  </p>
+</div>
+
+---
+
 # 💫 About Me:
 Hi 👋, I'm Abinesh<br><br> 💻 A passionate developer with a strong focus on building impactful and dynamic solutions.🚀<br><br> 🎓 Completed a Higher Diploma in Computing and Software Engineering (Cardiff Metropolitan University)💻 <br><br>  📚 🎉Completed Cisco Certified Internet work
 Expert(CCIE) at GreatLake
