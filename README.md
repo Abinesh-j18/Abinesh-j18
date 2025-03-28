@@ -53,7 +53,7 @@ Expert(CCIE) at GreatLake.
 <p align="center">
   <a>
     <img height="150" width="150" src="https://github.com/Abinesh-j18/Abinesh-j18/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abinesh-j18&theme=dark&hide_border=true"/>
+   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abinesh-j18&theme=dark&hide_border=false" /> 
     <img height="150" width="150" src="https://github.com/Abinesh-j18/Abinesh-j18/blob/main/right.png">
   </a>
 </p>
